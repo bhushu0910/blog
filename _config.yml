@@ -2,7 +2,7 @@ title:              Abhijeet's Blog
 email:              
 description:        All about D A T A !
 author:             Abhijeet
-baseurl:            "/blog/"
+baseurl:            "blog/"
 url:                
 
 # Social Profiles
